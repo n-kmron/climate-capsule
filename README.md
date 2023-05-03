@@ -4,7 +4,12 @@
 
 ## Description
 It's maybe the time to discover new places near from you and the stories of somepeople in there !
-So the theme was 'Digital Time Capsule' and we wanted to create a project to binding people around a story near of each other
+So the theme was 'Digital Time Capsule' and we wanted to create a project to binding people around a story near of each other.
+Each story is an unique telling from someone with parameters (a location, a period) and deployed like a book with some pages.
+
+We decided to create an MVP (minimum viable project) for our project even if we know the potential of it if we did not have the time constraint.
+
+My responsibility in the project was the backend.
 
 ## Constraints
 We did it in 48 hours and the constraints were the following : 
