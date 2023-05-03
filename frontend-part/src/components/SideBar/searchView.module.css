@@ -1,0 +1,44 @@
+.input {
+    margin: 16px 16px 0 16px;
+    height: 52px;
+    padding: 0 16px;
+    border: 0;
+    font-size: 16px;
+}
+
+.pacesList {
+    padding: 0;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.place {
+    display: flex;
+    align-items: center;
+    height: 52px;
+    padding: 0 16px;
+    cursor: pointer;
+}
+
+.place.active {
+    background-color: #e5e5e5;
+}
+
+.emptyStories {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    font-size: 16px;
+    color: #999;
+}
+
+.loading {
+    margin: 16px;
+}
+
+.error {
+    margin: 16px;
+    font-size: 16px;
+    color: #f00;
+}
